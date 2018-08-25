@@ -32,8 +32,8 @@ Usage: ./dij [input_case]
 
 Show the routing map, d map and pi map as below
 
-d map shows the total cost accumulate from start point to end point
-pi map shows the parent point for each point
+d map shows the total cost accumulate from start point to end point<br/>
+pi map shows the parent point for each point<br>
 
 ![image](https://github.com/chun128/Dijkstra-sAlgorithm-Implementation/blob/master/readme%20picture/final%20map.jpg)
 
